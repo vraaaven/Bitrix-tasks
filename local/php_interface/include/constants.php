@@ -1,0 +1,4 @@
+<?php
+const CATALOG_CLOTH_ID = 4;
+const CATALOG_CLOTH_OFFERS_ID = 5;
+const MESSAGE_ONE_CLICK_ORDER = 90;
